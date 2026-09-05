@@ -13,10 +13,10 @@ function closeModal() {
 }
 
 const faces = [
-    'images/face1.png',
-    'images/face2.png',
-    'images/face3.png',
-    'images/face4.png'
+    'images/face1.PNG',
+    'images/face2.PNG',
+    'images/face3.PNG',
+    'images/face4.PNG'
   ];
   
   const messages = [
